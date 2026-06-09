@@ -1,4 +1,4 @@
-# 
+# Inteligente Open WebUI extensões. Com gerenciamento de memória e indexação de dados — otimizado para máximo desempenho e eficiência.
 
 
 
